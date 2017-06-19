@@ -1,0 +1,30 @@
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\BookLayerApp.BLL\obj\Debug\BookLayerApp.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\BookLayerApp.BLL\bin\Debug\BookLayerApp.BLL.dll.config
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\BookLayerApp.BLL\bin\Debug\BookLayerApp.BLL.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\BookLayerApp.BLL\bin\Debug\BookLayerApp.BLL.pdb
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\BookLayerApp.BLL\bin\Debug\BookLayerApp.DAL.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\BookLayerApp.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\BookLayerApp.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\BookLayerApp.BLL\bin\Debug\Ninject.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\BookLayerApp.BLL\bin\Debug\BookLayerApp.DAL.pdb
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\BookLayerApp.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\BookLayerApp.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\BookLayerApp.BLL\bin\Debug\Ninject.xml
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\BookLayerApp.BLL\obj\Debug\BookLayerApp.BLL.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\BookLayerApp.BLL\obj\Debug\BookLayerApp.BLL.pdb
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\BookLayerApp.BLL\obj\Debug\BookLayerApp.BLL.csprojResolveAssemblyReference.cache
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\BookLayerApp.BLL\obj\Debug\BookLayerApp.BLL.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\BookLayerApp.BLL\obj\Debug\BookLayerApp.BLL.pdb
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\BookLayerApp.BLL\bin\Debug\BookLayerApp.BLL.dll.config
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\BookLayerApp.BLL\bin\Debug\BookLayerApp.BLL.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\BookLayerApp.BLL\bin\Debug\BookLayerApp.BLL.pdb
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\BookLayerApp.BLL\bin\Debug\BookLayerApp.DAL.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\BookLayerApp.BLL\bin\Debug\EntityFramework.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\BookLayerApp.BLL\bin\Debug\EntityFramework.SqlServer.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\BookLayerApp.BLL\bin\Debug\Ninject.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\BookLayerApp.BLL\bin\Debug\BookLayerApp.DAL.pdb
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\BookLayerApp.BLL\bin\Debug\EntityFramework.xml
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\BookLayerApp.BLL\bin\Debug\EntityFramework.SqlServer.xml
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\BookLayerApp.BLL\bin\Debug\Ninject.xml
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\BookLayerApp.BLL\bin\Debug\AutoMapper.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\BookLayerApp.BLL\bin\Debug\AutoMapper.xml

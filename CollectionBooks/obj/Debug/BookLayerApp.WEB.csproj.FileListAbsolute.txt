@@ -1,0 +1,88 @@
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks\obj\Debug\BookLayerApp.WEB.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks\bin\roslyn\csc.exe
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks\bin\roslyn\vbc.exe
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks\bin\roslyn\VBCSCompiler.exe
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks\bin\CollectionBooks.dll.config
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks\bin\CollectionBooks.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks\bin\CollectionBooks.pdb
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks\bin\BookLayerApp.BLL.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks\bin\EntityFramework.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks\bin\EntityFramework.SqlServer.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks\bin\System.Web.Helpers.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks\bin\System.Web.Mvc.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks\bin\System.Web.Razor.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks\bin\System.Web.Webpages.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks\bin\System.Web.Webpages.Razor.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks\bin\BookLayerApp.DAL.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks\bin\Ninject.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks\bin\BookLayerApp.BLL.pdb
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks\bin\EntityFramework.xml
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks\bin\EntityFramework.SqlServer.xml
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks\bin\System.Web.Razor.xml
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks\bin\System.Web.Webpages.xml
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks\bin\System.Web.Webpages.Razor.xml
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks\bin\System.Web.Helpers.xml
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks\bin\System.Web.Mvc.xml
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks\bin\BookLayerApp.DAL.pdb
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks\bin\Ninject.xml
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks\obj\Debug\CollectionBooks.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks\obj\Debug\CollectionBooks.pdb
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\obj\Debug\BookLayerApp.WEB.csprojResolveAssemblyReference.cache
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\obj\Debug\CollectionBooks.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\obj\Debug\CollectionBooks.pdb
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\bin\roslyn\csc.exe
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\bin\roslyn\System.Collections.Immutable.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\bin\roslyn\System.Reflection.Metadata.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\bin\roslyn\vbc.exe
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\bin\roslyn\VBCSCompiler.exe
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\bin\roslyn\VBCSCompiler.exe.config
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\bin\CollectionBooks.dll.config
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\bin\CollectionBooks.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\bin\CollectionBooks.pdb
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\bin\BookLayerApp.BLL.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\bin\BookLayerApp.DAL.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\bin\EntityFramework.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\bin\EntityFramework.SqlServer.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\bin\Microsoft.Web.Infrastructure.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\bin\Newtonsoft.Json.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\bin\Ninject.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\bin\System.Web.Helpers.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\bin\System.Web.Mvc.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\bin\System.Web.Razor.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\bin\System.Web.Webpages.Deployment.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\bin\System.Web.Webpages.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\bin\System.Web.Webpages.Razor.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\bin\BookLayerApp.BLL.pdb
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\bin\BookLayerApp.DAL.pdb
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\bin\EntityFramework.xml
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\bin\EntityFramework.SqlServer.xml
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\bin\Newtonsoft.Json.xml
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\bin\Ninject.xml
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\bin\System.Web.Mvc.xml
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\bin\System.Web.Razor.xml
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\bin\System.Web.Webpages.xml
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\bin\System.Web.Webpages.Deployment.xml
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\bin\System.Web.Webpages.Razor.xml
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks\bin\System.Web.Helpers.xml

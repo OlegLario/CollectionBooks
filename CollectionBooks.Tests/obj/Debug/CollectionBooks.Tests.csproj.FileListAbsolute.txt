@@ -1,0 +1,73 @@
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks.Tests\bin\Debug\CollectionBooks.Tests.dll.config
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks.Tests\bin\Debug\CollectionBooks.Tests.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks.Tests\bin\Debug\CollectionBooks.Tests.pdb
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks.Tests\obj\Debug\CollectionBooks.Tests.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks.Tests\obj\Debug\CollectionBooks.Tests.pdb
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks.Tests\bin\Debug\CollectionBooks.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks.Tests\bin\Debug\BookLayerApp.BLL.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks.Tests\bin\Debug\BookLayerApp.DAL.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks.Tests\bin\Debug\Ninject.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks.Tests\bin\Debug\CollectionBooks.pdb
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks.Tests\bin\Debug\BookLayerApp.BLL.pdb
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks.Tests\bin\Debug\BookLayerApp.DAL.pdb
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks.Tests\bin\Debug\Ninject.xml
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\CollectionBooks.Tests\obj\Debug\CollectionBooks.Tests.csprojResolveAssemblyReference.cache
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks.Tests\obj\Debug\CollectionBooks.Tests.csprojResolveAssemblyReference.cache
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks.Tests\obj\Debug\CollectionBooks.Tests.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks.Tests\obj\Debug\CollectionBooks.Tests.pdb
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks.Tests\bin\Debug\roslyn\csc.exe
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks.Tests\bin\Debug\roslyn\vbc.exe
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks.Tests\bin\Debug\CollectionBooks.Tests.dll.config
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks.Tests\bin\Debug\CollectionBooks.Tests.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks.Tests\bin\Debug\CollectionBooks.Tests.pdb
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks.Tests\bin\Debug\BookLayerApp.DAL.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks.Tests\bin\Debug\Castle.Core.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks.Tests\bin\Debug\CollectionBooks.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks.Tests\bin\Debug\EntityFramework.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks.Tests\bin\Debug\EntityFramework.SqlServer.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks.Tests\bin\Debug\Moq.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks.Tests\bin\Debug\System.Web.Mvc.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks.Tests\bin\Debug\BookLayerApp.DAL.pdb
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks.Tests\bin\Debug\CollectionBooks.pdb
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks.Tests\bin\Debug\Castle.Core.xml
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks.Tests\bin\Debug\EntityFramework.xml
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks.Tests\bin\Debug\EntityFramework.SqlServer.xml
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks.Tests\bin\Debug\Moq.xml
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\CollectionBooks.Tests\bin\Debug\System.Web.Mvc.xml

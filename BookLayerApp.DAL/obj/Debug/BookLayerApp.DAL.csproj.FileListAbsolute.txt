@@ -1,0 +1,20 @@
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\BookLayerApp.DAL\bin\Debug\BookLayerApp.DAL.dll.config
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\BookLayerApp.DAL\bin\Debug\BookLayerApp.DAL.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\BookLayerApp.DAL\bin\Debug\BookLayerApp.DAL.pdb
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\BookLayerApp.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\BookLayerApp.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\BookLayerApp.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\BookLayerApp.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\BookLayerApp.DAL\obj\Debug\BookLayerApp.DAL.dll
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\BookLayerApp.DAL\obj\Debug\BookLayerApp.DAL.pdb
+C:\Users\Oleg\documents\visual studio 2015\Projects\CollectionBooks\BookLayerApp.DAL\obj\Debug\BookLayerApp.DAL.csprojResolveAssemblyReference.cache
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\BookLayerApp.DAL\obj\Debug\BookLayerApp.DAL.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\BookLayerApp.DAL\obj\Debug\BookLayerApp.DAL.pdb
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\BookLayerApp.DAL\bin\Debug\BookLayerApp.DAL.dll.config
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\BookLayerApp.DAL\bin\Debug\BookLayerApp.DAL.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\BookLayerApp.DAL\bin\Debug\BookLayerApp.DAL.pdb
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\BookLayerApp.DAL\bin\Debug\EntityFramework.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\BookLayerApp.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\BookLayerApp.DAL\bin\Debug\EntityFramework.xml
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\BookLayerApp.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\My projects\TempCollect\CollectionBooks\CollectionBooks\BookLayerApp.DAL\obj\Debug\BookLayerApp.DAL.csprojResolveAssemblyReference.cache
